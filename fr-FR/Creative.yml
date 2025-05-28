@@ -1,0 +1,14 @@
+creative:
+  command:
+    back:
+      success: "<green>Téléporté(e) à la dernière position !"
+      fail: "<red>Aucune position précédente enregistrée."
+  tpa_manager:
+    no_player: "Veuillez spécifier un joueur pour la téléportation."
+    on_cooldown: "Vous devez attendre encore %duration% avant une nouvelle téléportation."
+    on_request: "Vous avec une demande en attente, vous devez attendre encore %duration% avant de refaire une demande."
+    send: "Demande envoyée !"
+    ask: "%player% souhaite se téléporter vers votre position."
+    dest_accept: "Demande acceptée."
+    src_accept: "Demande de téléportation acceptée. Préparez-vous à être téléporté..."
+    done: "Vous avez été téléporté avec succès ! Vous devrez attendre 30s avant une nouvelle téléportation."

@@ -1,0 +1,9 @@
+lib:
+  chat:
+    accept: "<green>[Accepter]"
+    decline: "<red>[Refuser]"
+
+  command:
+    translation:
+      select:
+        success: "<green> Vous avez sélectionné la langue %locale%."
