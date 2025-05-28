@@ -12,3 +12,9 @@ creative:
     dest_accept: "Demande acceptée."
     src_accept: "Demande de téléportation acceptée. Préparez-vous à être téléporté..."
     done: "Vous avez été téléporté avec succès ! Vous devrez attendre 30s avant une nouvelle téléportation."
+
+    ask_here: "%player% vous demande de vous téléporter vers lui."
+    dest_accept_here: "Demande de téléportation acceptée. Vous serez téléporté vers %player%..."
+    src_accept_here: "Demande acceptée."
+    done_here: "Le joueur a été téléporté avec succès jusqu’à vous !"
+
